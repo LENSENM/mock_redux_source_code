@@ -1,3 +1,7 @@
+# mock_redux_source_code
+
+使用 creactConext  useContext 和 HOC 进行实现 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
